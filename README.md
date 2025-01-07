@@ -14,11 +14,18 @@ Repo to Post Updates for my "IGM: Games Archive" Website
 
 ## In Progress
 
-⚠️ Other Game Category Lists <br></br>
+⚠️Technology Category List <br></br>
+⚠️Technology Game Page List <br></br>
+⚠️Gardening Game Page List <br></br>
+⚠️Gardening Category List <br></br>
+⚠️Animal Game Page List <br></br>
+⚠️ Other Game Category & Game Page Lists <br></br>
+
 
 ## Not Started
 
 ❌ Custom Logo for Favicon & Banner <br></br>
 ❌ Special Effects <br></br>
-❌ More <br></br>
 ❌ Comments & Discussion <br></br>
+❌ More Potential Things/Features<br></br>
+
