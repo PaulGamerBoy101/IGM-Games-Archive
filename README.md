@@ -1,31 +1,41 @@
-# IGM-Games-Archive
+# IGM: Games Archive
 Repo to Post Updates for my "IGM: Games Archive" Website
 
-## Finished Pages
+## Finished
 
-✅ Home <br></br>
-✅ About <br></br>
-✅ "Add a Game" <br></br>
+✅ Homepage <br></br>
+✅ About Page<br></br>
+✅ "Add a Game" Page<br></br>
 ✅ Main Games List <br></br>
 ✅ Animal Category List <br></br>
 ✅ Cyber Clicker Game Page <br></br>
 ✅ Pumpkin Clicker Game Page <br></br>
 ✅ Bunny Clicker Game Page <br></br>
+✅ Custom Logo for Banner <br></br>
+✅ Terms & Conditions <br></br>
+✅ Privacy Policy <br></br>
+✅ Subscribe Page <br></br>
 
 ## In Progress
 
-⚠️Technology Category List <br></br>
-⚠️Technology Game Page List <br></br>
-⚠️Gardening Game Page List <br></br>
-⚠️Gardening Category List <br></br>
-⚠️Animal Game Page List <br></br>
+⚠️ Technology Category List <br></br>
+⚠️ Technology Game Page List <br></br>
+⚠️ Gardening Game Page List <br></br>
+⚠️ Gardening Category List <br></br>
+⚠️ Animal Game Page List <br></br>
 ⚠️ Other Game Category & Game Page Lists <br></br>
 
 
 ## Not Started
 
-❌ Custom Logo for Favicon & Banner <br></br>
+❌ Applying Custom Logo as Favicon <br></br>
 ❌ Special Effects <br></br>
 ❌ Comments & Discussion <br></br>
-❌ More Potential Things/Features<br></br>
+❌ More Potential Things/Features <br></br>
+
+## Some More Code Type Things I Need to Do
+
+* Add the `<html lang>` attribute to the `<head>` of Every Page
+* Add `alt` Text to Every Image
+* Fix the Syntax on Many of the Pages
 
