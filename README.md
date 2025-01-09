@@ -1,6 +1,10 @@
 # IGM: Games Archive
 Repo to Post Updates for my "IGM: Games Archive" Website
 
+## Screenshots
+
+
+
 ## Finished
 
 ✅ Homepage <br></br>
@@ -15,10 +19,13 @@ Repo to Post Updates for my "IGM: Games Archive" Website
 ✅ Terms & Conditions <br></br>
 ✅ Privacy Policy <br></br>
 ✅ Subscribe Page <br></br>
+✅ Technology Category List <br></br>
+✅ Space Category List <br></br>
+✅ Fantasy Category List <br></br>
+✅ Civilization Category List <br></br>
 
 ## In Progress
 
-⚠️ Technology Category List <br></br>
 ⚠️ Technology Game Page List <br></br>
 ⚠️ Gardening Game Page List <br></br>
 ⚠️ Gardening Category List <br></br>
