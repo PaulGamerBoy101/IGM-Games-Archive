@@ -23,6 +23,8 @@ Repo to Post Updates for my "IGM: Games Archive" Website
 ✅ Space Category List <br></br>
 ✅ Fantasy Category List <br></br>
 ✅ Civilization Category List <br></br>
+✅ r/idlegamemaker RSS Feed <br></br>
+✅ Additional Game Lists Have Been Completed <br></br>
 
 ## In Progress
 
