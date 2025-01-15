@@ -11,7 +11,6 @@ Repo to Post Updates for my "IGM: Games Archive" Website
 ✅ About Page<br></br>
 ✅ "Add a Game" Page<br></br>
 ✅ Main Games List <br></br>
-✅ Animal Category List <br></br>
 ✅ Cyber Clicker Game Page <br></br>
 ✅ Pumpkin Clicker Game Page <br></br>
 ✅ Bunny Clicker Game Page <br></br>
@@ -19,18 +18,13 @@ Repo to Post Updates for my "IGM: Games Archive" Website
 ✅ Terms & Conditions <br></br>
 ✅ Privacy Policy <br></br>
 ✅ Subscribe Page <br></br>
-✅ Technology Category List <br></br>
-✅ Space Category List <br></br>
-✅ Fantasy Category List <br></br>
-✅ Civilization Category List <br></br>
 ✅ r/idlegamemaker RSS Feed <br></br>
-✅ Additional Game Lists Have Been Completed <br></br>
+✅ Applying Custom Logo as Favicon <br></br>
+✅ All Game Category Pages are Finished
+
 
 ## In Progress
 
-⚠️ Technology Game Page List <br></br>
-⚠️ Gardening Game Page List <br></br>
-⚠️ Gardening Category List <br></br>
 ⚠️ Animal Game Page List <br></br>
 ⚠️ Other Game Category & Game Page Lists <br></br>
 
