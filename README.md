@@ -25,13 +25,13 @@ Repo to Post Updates for my "IGM: Games Archive" Website
 
 ## In Progress
 
+⚠️ Author Pages <br></br>
 ⚠️ Animal Game Page List <br></br>
-⚠️ Other Game Category & Game Page Lists <br></br>
+⚠️ Other Game Page Lists <br></br>
 
 
 ## Not Started
 
-❌ Applying Custom Logo as Favicon <br></br>
 ❌ Special Effects <br></br>
 ❌ Comments & Discussion <br></br>
 ❌ More Potential Things/Features <br></br>
